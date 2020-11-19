@@ -1,0 +1,43 @@
+baseURL = "https://example.com/"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "en"
+paginate = 4
+theme = "hugo-theme-texify"
+title = "Let's Improvise"
+
+disqusShortname = ""
+googleAnalytics = ""
+pygmentsUseClasses = true
+
+[author]
+name = "Muhammad Abdullah"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "post"
+  name = "Post"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/post/"
+  weight = 2
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[params]
+  custom_css = []
+  description = "Personal blog where I share my ideas and experiences."
+  enable_mathjax = true
+  footnote = "<a class=link href=mailto:abdulee@disroot.org>Contact me</a>, <a class=link href=https://keys.mailvelope.com/pks/lookup?op=get&search=abdulee@disroot.org>PGP Key</a> or <a class=link href=/index.xml>RSS</a> <br/> Works licensed under <a class=link href=https://creativecommons.org/licenses/by/4.0/ target=_blank rel=noopener>Creative Commons Attribution 4.0 International License</a>"
+  keywords = ["hugo", "latex", "theme"]
