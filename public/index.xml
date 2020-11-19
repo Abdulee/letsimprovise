@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Let&#39;s Improvise</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Let&#39;s Improvise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Nov 2020 15:26:21 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another</title>
+      <link>https://example.com/post/newpost/</link>
+      <pubDate>Thu, 19 Nov 2020 15:26:21 +0100</pubDate>
+      
+      <guid>https://example.com/post/newpost/</guid>
+      <description>Hi, this is a very important open letter</description>
+    </item>
+    
+    <item>
+      <title>Nuevo</title>
+      <link>https://example.com/post/nuevo/</link>
+      <pubDate>Thu, 19 Nov 2020 15:20:27 +0100</pubDate>
+      
+      <guid>https://example.com/post/nuevo/</guid>
+      <description>Heading absolutely awful</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 19 Nov 2020 15:19:19 +0100</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
