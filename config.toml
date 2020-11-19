@@ -40,5 +40,5 @@ name = "Muhammad Abdullah"
   custom_css = []
   description = "Personal blog where I share my ideas and experiences."
   enable_mathjax = true
-  footnote = "<a class=link href=mailto:abdulee@disroot.org>Contact me</a>, <a class=link href=https://keys.mailvelope.com/pks/lookup?op=get&search=abdulee@disroot.org>PGP Key</a> or <a class=link href=/index.xml>RSS</a> <br/> Works licensed under <a class=link href=https://creativecommons.org/licenses/by/4.0/ target=_blank rel=noopener>Creative Commons Attribution 4.0 International License</a>"
+  footnote = "<a class=link href=mailto:abdulee@disroot.org>Contact me</a>, <a class=link href=https://keys.mailvelope.com/pks/lookup?op=get&search=abdulee@disroot.org>PGP Key</a> or <a class=link href=/index.xml>RSS</a> <br/> All works licensed under <a class=link href=https://creativecommons.org/licenses/by/4.0/ target=_blank rel=noopener>Creative Commons Attribution 4.0 International License</a>"
   keywords = ["hugo", "latex", "theme"]
