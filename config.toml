@@ -36,6 +36,7 @@ name = "Muhammad Abdullah"
   weight = 3
 
 [params]
+  favicon = "/img/favicon.ico"
   custom_css = []
   description = "Personal blog where I share my ideas and experiences."
   enable_mathjax = true
